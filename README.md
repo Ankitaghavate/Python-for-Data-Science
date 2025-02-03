@@ -15,12 +15,16 @@ This project includes Jupyter Notebooks that cover different aspects of data sci
 
 ## Installation
 To get started, clone the repository and install the necessary dependencies:
-```bash```
-
+```bash
 git clone https://github.com/Ankitaghavate/Python-for-Data-Science.git
-cd Python-for-Data-Science
-pip install -r requirements.txt
+```
 
+```bash
+cd Python-for-Data-Science
+```
+```bash
+pip install -r requirements.txt
+```
 # Usage
 Open the Jupyter Notebooks in your preferred environment to explore the tutorials and examples.
 
